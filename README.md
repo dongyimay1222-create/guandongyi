@@ -26,7 +26,7 @@
 
 #### 🌐 **High-Availability-Cluster (企业级 Linux 高可用集群与自动化部署实训)**
 - **项目定义**: 结课成绩 **96分** 的生产级架构高仿真演练。
-- **演练链路**: 基于 **OpenEuler** 进行内核调优 ➔ 部署 **Nginx + LVS（DR模式）+ Keepalived** 核心拓扑 ➔ 解决单点故障，保障 **99.99%** 业务连续性 ➔ 利用 Ansible / SaltStack 资源编排实现 IaC 落地。
+- **演练链路**: 基于 **OpenEuler** 进行内核调优 ➔ 部署 **Nginx + LVS（DR模式）+ Keepalived** 核心拓扑 ➔ 解决单点故障 ➔ 利用 Ansible / SaltStack 资源编排实现 IaC 落地。
 
 ---
 
